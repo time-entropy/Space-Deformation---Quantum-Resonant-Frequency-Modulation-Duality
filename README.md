@@ -2,6 +2,8 @@
 
 In Section 4, we discussed the action and mentioned that spatial deformation corresponds to frequency modulation. In this chapter, we will further explore this topic. Furthermore, the subsequent mathematical formalization of this model does not require a specific characterization of spatial deformation. Instead, it maps spatial deformation onto the corresponding region's frequency domain of SEQ network while distinguishing between compression phases, stretching phases, and twistors. Frequency modulation is used to characterize spatial deformation and potential energy changes.
 
+Full text available on Zenodo: https://doi.org/10.5281/zenodo.14788393
+
 # 13.1 Frequency Modulation as an Essential Description of Spatial Deformation
 
 The model suggests that any metric change in space, such as curvature caused by gravitational fields, modulates the resonant frequency of SEQ. Compression and stretching phases influence frequency domain modulation through asymmetric elastic coefficients. This frequency modulation directly encodes the geometric information of spatial deformation, eliminating the need for additional Riemann geometry descriptions.
