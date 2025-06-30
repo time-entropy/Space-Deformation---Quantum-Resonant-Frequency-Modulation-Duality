@@ -13,10 +13,15 @@ The traditional concept of potential energy terms (gravitational, electromagneti
 Simplified Pathway for Mathematical Formalization:
 
 # 13.2 First, classify spatial deformations into 5 types (specific classifications can be refined based on future research):
+
 Stretching Phase
+
 Compression Phase
+
 Left-handed Twistor
+
 Right-handed Twistor
+
 shear direction 
 
 Since the model assumes that SEQs have a fixed chirality spin in their ground state, the frequency modulation caused by left-handed and right-handed twistors is not entirely symmetric. Based on QCD and cosmological observations, the elastic coefficients and frequency modulation of space should be nonlinear functions. Therefore, according to existing QCD, electromagnetism, and cosmological observations, preliminary modeling of the operator functions for these 5 deformations to SEQ frequency modulation can be established. Embedding these four operators into the action function or other equations allows the analytic expression of action from Chapter 4 to represent the modulation of transmission frequency due to deformation.
